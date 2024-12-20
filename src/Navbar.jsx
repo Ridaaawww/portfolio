@@ -20,7 +20,7 @@ function Navbar() {
           <div className="hidden md:block">
             <div className="ml-4 flex items-center md:ml-6">
               <a
-              href='https://drive.google.com/drive/u/0/computers'
+              href='https://drive.google.com/file/d/1rGmg5W4v5rXHfPU5pQZ9XJY9L-giWK75/view?usp=drive_link'
               target='_blank'
               ref="noopener noreferrer"
                 className="px-4 py-2 bg-indigo-600 text-white font-semibold rounded-md hover:bg-indigo-700 transition duration-200"
