@@ -5,14 +5,14 @@ function ProductCard() {
     {
       name: "THS_X",
       description: "A social media app with notifications, followers, and bookmarks.",
-      image: "/public/thsx.png", // Replace with the actual image URL
+      image: "/thsx.png", // Replace with the actual image URL
       liveLink: "https://thsx.dearfood.app/",
       // githubLink: "https://github.com/your-thsx-repo",
     },
     {
       name: "E-Commerce App",
       description: "An online store with product search, cart, and payment integration.",
-      image: "/public/ecom.png", // Replace with the actual image URL
+      image: "/ecom.png", // Replace with the actual image URL
       liveLink: "https://ecom.dearfood.app",
       githubLink: "https://github.com/Ridaaawww/E-commerce",
     },
