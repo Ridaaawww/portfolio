@@ -15,7 +15,7 @@ function Header() {
 
         {/* Image */}
         <img
-          src="../public/code.png"
+          src="/code.png"
           alt="Coding Illustration"
           className="w-64 h-auto mt-4"
         />
