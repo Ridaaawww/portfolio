@@ -19,11 +19,13 @@ function Navbar() {
           {/* Button Section */}
           <div className="hidden md:block">
             <div className="ml-4 flex items-center md:ml-6">
-              <button
+              <a
+              href='/resume.pdf'
+              download='My_Resume.pdf'
                 className="px-4 py-2 bg-indigo-600 text-white font-semibold rounded-md hover:bg-indigo-700 transition duration-200"
               >
-                Say Hello
-              </button>
+                Resume
+              </a>
             </div>
           </div>
         </div>
