@@ -21,7 +21,8 @@ function Navbar() {
             <div className="ml-4 flex items-center md:ml-6">
               <a
               href='/resume.pdf'
-              download='My_Resume.pdf'
+              target='_blank'
+              rel="noopener noreferrer"
                 className="px-4 py-2 bg-indigo-600 text-white font-semibold rounded-md hover:bg-indigo-700 transition duration-200"
               >
                 Resume
