@@ -22,7 +22,7 @@ function Navbar() {
               <a
               href='https://drive.google.com/file/d/1rGmg5W4v5rXHfPU5pQZ9XJY9L-giWK75/view?usp=drive_link'
               target='_blank'
-              ref="noopener noreferrer"
+              rel="noopener noreferrer"
                 className="px-4 py-2 bg-indigo-600 text-white font-semibold rounded-md hover:bg-indigo-700 transition duration-200"
               >
                 Resume
